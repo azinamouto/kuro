@@ -1,0 +1,5 @@
+{
+  "version": 1,
+  "origin": "http://127.0.0.1:8080",
+  "max_requests": 10
+}
